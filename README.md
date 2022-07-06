@@ -40,11 +40,11 @@ $ ./SnakeGame
 
 ## Game description
 The Game lets the user enter the player’s name. After entering the name, press Enter for the Game to start
-![Enter Name](assets/snake_game_name.jpg)
+![Enter Name](assets/snake_game_name.png)
 The goal of the Game is to eat apples (red circles) and grow the snake. The player can change the direction of the snake with a click of the mouse: one click, one direction change (up, down, left, right). This snake is not very smart. If you click behind the snake, it will try to eat itself, and … Game Over. If shake hits the border – Game Over. If a snake bites its tail, you guess it, – Game over.
-![Game](assets/snake_game_game.jpg)
+![Game](assets/snake_game_game.png)
 The Game keeps track of the top 10 scores. At the end of the Game, the user has the option to play again (with the same name) or quit the game.
-![Score](assets/snake_game_score.jpg)
+![Score](assets/snake_game_score.png)
 Enjoy!
 ##TODO
 Right now, if the user resizes the window, the mouse clicks will not be detected correctly. I plan to fix it in the future.
